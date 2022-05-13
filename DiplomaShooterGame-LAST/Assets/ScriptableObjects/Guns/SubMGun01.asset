@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1315cc1b2bab42940866462daf45f102, type: 3}
+  m_Name: SubMGun01
+  m_EditorClassIdentifier: 
+  name: rifle
+  type: weapon
+  ammo: 120
+  clipSize: 30
+  prefab: {fileID: 2871181244834351369, guid: 6934b8f40894669459f5a923abefd323, type: 3}
+  icon: {fileID: 21300000, guid: f45b93ee99f4298418d417626e87654f, type: 3}
+  slot: 0
+  damage: 100
+  fireRate: 1
+  bulletSpeed: 100
+  bulletDrop: 1
+  burst: 1
+  magazine: {fileID: 8046985129817889320, guid: 632e2a66ee4a5d247b91aa4783dff256,
+    type: 3}
+  BulletTrailRenderer: {fileID: 3827800863306381443, guid: 78e0e6ca6b83339468ffb42529661e27,
+    type: 3}

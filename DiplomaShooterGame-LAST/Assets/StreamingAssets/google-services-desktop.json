@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931854945296",
+    "firebase_url": "https://battle-royale-57b2a-default-rtdb.firebaseio.com",
+    "project_id": "battle-royale-57b2a",
+    "storage_bucket": "battle-royale-57b2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931854945296:android:d15a28b39e43e1bb990e95",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.DiplomaShooterGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931854945296-tdc4c97ku8njsm7eq0904p933gfgvfqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcG-9LFJrY6eqR0AUZ0pjrZgWpqpEt3Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931854945296-tdc4c97ku8njsm7eq0904p933gfgvfqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
